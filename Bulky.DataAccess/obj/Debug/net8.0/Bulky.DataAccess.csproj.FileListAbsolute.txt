@@ -13,3 +13,19 @@ F:\C#\ASP.NET 8.0 MVC\Project\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\Bulky.D
 F:\C#\ASP.NET 8.0 MVC\Project\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\refint\Bulky.DataAccess.dll
 F:\C#\ASP.NET 8.0 MVC\Project\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.pdb
 F:\C#\ASP.NET 8.0 MVC\Project\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\ref\Bulky.DataAccess.dll
+E:\BulkyWeb\Bulky.DataAccess\bin\Debug\net8.0\Bulky.DataAccess.deps.json
+E:\BulkyWeb\Bulky.DataAccess\bin\Debug\net8.0\Bulky.DataAccess.dll
+E:\BulkyWeb\Bulky.DataAccess\bin\Debug\net8.0\Bulky.DataAccess.pdb
+E:\BulkyWeb\Bulky.DataAccess\bin\Debug\net8.0\Bulky.Models.dll
+E:\BulkyWeb\Bulky.DataAccess\bin\Debug\net8.0\Bulky.Models.pdb
+E:\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.csproj.AssemblyReference.cache
+E:\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.AssemblyInfoInputs.cache
+E:\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.AssemblyInfo.cs
+E:\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.csproj.CoreCompileInputs.cache
+E:\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.sourcelink.json
+E:\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\Bulky.Da.6DBD1FC4.Up2Date
+E:\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.dll
+E:\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\refint\Bulky.DataAccess.dll
+E:\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.pdb
+E:\BulkyWeb\Bulky.DataAccess\obj\Debug\net8.0\ref\Bulky.DataAccess.dll

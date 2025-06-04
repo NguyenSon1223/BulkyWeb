@@ -12,3 +12,18 @@ F:\C#\ASP.NET 8.0 MVC\Project\BulkyWeb\Bulky.Utility\obj\Debug\net8.0\refint\Bul
 F:\C#\ASP.NET 8.0 MVC\Project\BulkyWeb\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.pdb
 F:\C#\ASP.NET 8.0 MVC\Project\BulkyWeb\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.genruntimeconfig.cache
 F:\C#\ASP.NET 8.0 MVC\Project\BulkyWeb\Bulky.Utility\obj\Debug\net8.0\ref\Bulky.Utility.dll
+E:\BulkyWeb\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.deps.json
+E:\BulkyWeb\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.runtimeconfig.json
+E:\BulkyWeb\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.dll
+E:\BulkyWeb\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.pdb
+E:\BulkyWeb\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.csproj.AssemblyReference.cache
+E:\BulkyWeb\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.GeneratedMSBuildEditorConfig.editorconfig
+E:\BulkyWeb\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.AssemblyInfoInputs.cache
+E:\BulkyWeb\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.AssemblyInfo.cs
+E:\BulkyWeb\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.csproj.CoreCompileInputs.cache
+E:\BulkyWeb\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.sourcelink.json
+E:\BulkyWeb\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.dll
+E:\BulkyWeb\Bulky.Utility\obj\Debug\net8.0\refint\Bulky.Utility.dll
+E:\BulkyWeb\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.pdb
+E:\BulkyWeb\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.genruntimeconfig.cache
+E:\BulkyWeb\Bulky.Utility\obj\Debug\net8.0\ref\Bulky.Utility.dll
