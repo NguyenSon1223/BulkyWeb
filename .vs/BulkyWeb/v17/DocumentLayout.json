@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\C#\\ASP.NET 8.0 MVC\\Project\\BulkyWeb\\",
+  "WorkspaceRootPath": "E:\\BulkyWeb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F96E1ED2-BD1E-4FAC-9362-41D301D8BDBE}|Bulky.DataAccess\\Bulky.DataAccess.csproj|f:\\c#\\asp.net 8.0 mvc\\project\\bulkyweb\\bulky.dataaccess\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F96E1ED2-BD1E-4FAC-9362-41D301D8BDBE}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8927F260-9EB5-4C07-9B90-D545D66D06E6}|BulkyWeb\\BulkyWeb.csproj|f:\\c#\\asp.net 8.0 mvc\\project\\bulkyweb\\bulkyweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8927F260-9EB5-4C07-9B90-D545D66D06E6}|BulkyWeb\\BulkyWeb.csproj|e:\\bulkyweb\\bulkyweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8927F260-9EB5-4C07-9B90-D545D66D06E6}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8927F260-9EB5-4C07-9B90-D545D66D06E6}|BulkyWeb\\BulkyWeb.csproj|f:\\c#\\asp.net 8.0 mvc\\project\\bulkyweb\\bulkyweb\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F96E1ED2-BD1E-4FAC-9362-41D301D8BDBE}|Bulky.DataAccess\\Bulky.DataAccess.csproj|e:\\bulkyweb\\bulky.dataaccess\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96E1ED2-BD1E-4FAC-9362-41D301D8BDBE}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8927F260-9EB5-4C07-9B90-D545D66D06E6}|BulkyWeb\\BulkyWeb.csproj|e:\\bulkyweb\\bulkyweb\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8927F260-9EB5-4C07-9B90-D545D66D06E6}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F96E1ED2-BD1E-4FAC-9362-41D301D8BDBE}|Bulky.DataAccess\\Bulky.DataAccess.csproj|f:\\c#\\asp.net 8.0 mvc\\project\\bulkyweb\\bulky.dataaccess\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F96E1ED2-BD1E-4FAC-9362-41D301D8BDBE}|Bulky.DataAccess\\Bulky.DataAccess.csproj|e:\\bulkyweb\\bulky.dataaccess\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F96E1ED2-BD1E-4FAC-9362-41D301D8BDBE}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F96E1ED2-BD1E-4FAC-9362-41D301D8BDBE}|Bulky.DataAccess\\Bulky.DataAccess.csproj|f:\\c#\\asp.net 8.0 mvc\\project\\bulkyweb\\bulky.dataaccess\\repository\\irepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F96E1ED2-BD1E-4FAC-9362-41D301D8BDBE}|Bulky.DataAccess\\Bulky.DataAccess.csproj|e:\\bulkyweb\\bulky.dataaccess\\repository\\irepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F96E1ED2-BD1E-4FAC-9362-41D301D8BDBE}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\irepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F96E1ED2-BD1E-4FAC-9362-41D301D8BDBE}|Bulky.DataAccess\\Bulky.DataAccess.csproj|f:\\c#\\asp.net 8.0 mvc\\project\\bulkyweb\\bulky.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F96E1ED2-BD1E-4FAC-9362-41D301D8BDBE}|Bulky.DataAccess\\Bulky.DataAccess.csproj|e:\\bulkyweb\\bulky.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F96E1ED2-BD1E-4FAC-9362-41D301D8BDBE}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,27 +34,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "F:\\C#\\ASP.NET 8.0 MVC\\Project\\BulkyWeb\\BulkyWeb\\Program.cs",
+              "DocumentMoniker": "E:\\BulkyWeb\\BulkyWeb\\Program.cs",
               "RelativeDocumentMoniker": "BulkyWeb\\Program.cs",
-              "ToolTip": "F:\\C#\\ASP.NET 8.0 MVC\\Project\\BulkyWeb\\BulkyWeb\\Program.cs",
+              "ToolTip": "E:\\BulkyWeb\\BulkyWeb\\Program.cs",
               "RelativeToolTip": "BulkyWeb\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T16:29:54.477Z"
+              "WhenOpened": "2025-06-01T16:29:54.477Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "ICategoryRepository.cs",
-              "DocumentMoniker": "F:\\C#\\ASP.NET 8.0 MVC\\Project\\BulkyWeb\\Bulky.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
+              "DocumentMoniker": "E:\\BulkyWeb\\Bulky.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
               "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
-              "ToolTip": "F:\\C#\\ASP.NET 8.0 MVC\\Project\\BulkyWeb\\Bulky.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
+              "ToolTip": "E:\\BulkyWeb\\Bulky.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
               "RelativeToolTip": "Bulky.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -62,11 +63,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "F:\\C#\\ASP.NET 8.0 MVC\\Project\\BulkyWeb\\Bulky.DataAccess\\Repository\\CategoryRepository.cs",
+              "DocumentMoniker": "E:\\BulkyWeb\\Bulky.DataAccess\\Repository\\CategoryRepository.cs",
               "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\CategoryRepository.cs",
-              "ToolTip": "F:\\C#\\ASP.NET 8.0 MVC\\Project\\BulkyWeb\\Bulky.DataAccess\\Repository\\CategoryRepository.cs",
+              "ToolTip": "E:\\BulkyWeb\\Bulky.DataAccess\\Repository\\CategoryRepository.cs",
               "RelativeToolTip": "Bulky.DataAccess\\Repository\\CategoryRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -77,9 +78,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "IRepository.cs",
-              "DocumentMoniker": "F:\\C#\\ASP.NET 8.0 MVC\\Project\\BulkyWeb\\Bulky.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "DocumentMoniker": "E:\\BulkyWeb\\Bulky.DataAccess\\Repository\\IRepository\\IRepository.cs",
               "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\IRepository\\IRepository.cs",
-              "ToolTip": "F:\\C#\\ASP.NET 8.0 MVC\\Project\\BulkyWeb\\Bulky.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "ToolTip": "E:\\BulkyWeb\\Bulky.DataAccess\\Repository\\IRepository\\IRepository.cs",
               "RelativeToolTip": "Bulky.DataAccess\\Repository\\IRepository\\IRepository.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAswAkAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -89,9 +90,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Repository.cs",
-              "DocumentMoniker": "F:\\C#\\ASP.NET 8.0 MVC\\Project\\BulkyWeb\\Bulky.DataAccess\\Repository\\Repository.cs",
+              "DocumentMoniker": "E:\\BulkyWeb\\Bulky.DataAccess\\Repository\\Repository.cs",
               "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\Repository.cs",
-              "ToolTip": "F:\\C#\\ASP.NET 8.0 MVC\\Project\\BulkyWeb\\Bulky.DataAccess\\Repository\\Repository.cs",
+              "ToolTip": "E:\\BulkyWeb\\Bulky.DataAccess\\Repository\\Repository.cs",
               "RelativeToolTip": "Bulky.DataAccess\\Repository\\Repository.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAxwCYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -101,9 +102,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "CategoryController.cs",
-              "DocumentMoniker": "F:\\C#\\ASP.NET 8.0 MVC\\Project\\BulkyWeb\\BulkyWeb\\Controllers\\CategoryController.cs",
+              "DocumentMoniker": "E:\\BulkyWeb\\BulkyWeb\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "BulkyWeb\\Controllers\\CategoryController.cs",
-              "ToolTip": "F:\\C#\\ASP.NET 8.0 MVC\\Project\\BulkyWeb\\BulkyWeb\\Controllers\\CategoryController.cs",
+              "ToolTip": "E:\\BulkyWeb\\BulkyWeb\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "BulkyWeb\\Controllers\\CategoryController.cs",
               "ViewState": "AgIAAEcAAAAAAAAAAAA8wFsAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
